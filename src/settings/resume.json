@@ -1,0 +1,106 @@
+{
+    "basics": {
+        "name": "Jacob Anderson",
+        "label": "Computer and Software Engineer",
+        "email": "jacob80a@icloud.com",
+        "phone": "(402) 957-1847",
+        "picture": "jl.png",
+        "x_title": "Hey, I'm",
+        "job": "Software and Hardware Engineer",
+        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
+        "summary": "based in Bremen, Germany.",
+        "keywords": "personal,website,portfolio,computer,science,react,github,linkedin,google,gitlab,material,design,ui,webapp",
+        "url": "https://jacobwilliamanderson.me",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Papillion",
+            "country": "United States",
+            "countryCode": "US",
+            "region": "Midwest"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "jacob-william-anderson/",
+                "url": "https://www.linkedin.com/in/jacob-william-anderson//",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "jacob80a",
+                "url": "https://github.com/jacob80a",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "jacob80a",
+                "url": "https://gitlab.com/jacob80a",
+                "x_icon": "fab fa-gitlab"
+            }
+        ]
+    },
+    "work": [
+        {
+          "company": "Speedway Motors, Inc",
+          "position": "Software Engineer",
+          "startDate": "2021-12-01",
+          "endDate": "Present",
+          "summary": "Develop web applications using React/Next.js and .NET framework/ASP.NET REST API Web Services. Manage AWS Cloud Infrastructure and utilized Azure DevOps CI/CD. Integrating Split.io A/B Testing Framework and Hot Chocolate GraphQL Platform."
+        },
+        {
+          "company": "Braden-Anderson Engineering",
+          "position": "Co-Founder, Embedded Systems Engineer",
+          "startDate": "2016-06-01",
+          "endDate": "Present",
+          "summary": "Designed and implemented printed circuit boards for automotive lighting applications. Developed microcontroller systems using C++ and C programming languages. Employed protocol buffers and nanopb in system designs. Integrated Flutter cross-platform mobile applications with embedded system hardware. Utilized Swift, CocoaPods, XCode, and Fusion 360 for electronics and housing design integration. Managed product development, marketing, and customer product integration."
+        },
+        {
+          "company": "Spreetail",
+          "position": "Software Engineer",
+          "startDate": "2020-08-01",
+          "endDate": "2021-12-01",
+          "summary": "Developed ASP.NET APIs and managed Microsoft SQL and Azure PostgreSQL relational databases. Utilized Azure Services, RabbitMQ Messaging, and Microservices Architecture. Implemented CQRS Application Architecture and various unit testing frameworks. Employed GitLab CI/CD and New Relic Performance Monitoring."
+        },
+        {
+          "company": "NTT",
+          "position": "Software Engineer",
+          "startDate": "2017-08-01",
+          "endDate": "2020-08-01",
+          "summary": "Developed front-end, back-end, API, and automated test applications. Designed serverless applications for Kubernetes/Docker clustered environments. Utilized continuous integration tools such as GitLab CI and Salt application configuration management. Employed automated build tools (Gradle, Maven), React, and JavaScript for user interface design and API integration. Utilized various Spring Framework technologies and 3rd-party API integrations. Developed Selenium WebDriver and TestNG Automation Test Cases for Java and React applications. Managed Docker application containers and Kubernetes server deployment."
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of Nebraska-Lincoln",
+          "area": "Computer Engineering",
+          "studyType": "Bachelor’s Degree",
+          "startDate": "2010-01-01",
+          "endDate": "2015-05-31"
+        },
+        {
+          "institution": "University of Nebraska-Lincoln",
+          "area": "Mathematics",
+          "studyType": "Minor",
+          "startDate": "2010-01-01",
+          "endDate": "2015-05-31"
+        },
+        {
+          "institution": "Metropolitan Community College",
+          "area": "General Education",
+          "studyType": "Transferrable Credits",
+          "startDate": "2009-01-01",
+          "endDate": "2012-12-31"
+        }
+      ],
+      "skills": [
+        {"name": "MySQL"},
+        {"name": "ASP.NET"},
+        {"name": "Kubernetes"},
+        {"name": "Microsoft Azure Software Implementation"},
+        {"name": "Video Editing"},
+        {"name": "Social Media"},
+        {"name": "Troubleshooting"},
+        {"name": "System Administration"}
+      ]
+}
